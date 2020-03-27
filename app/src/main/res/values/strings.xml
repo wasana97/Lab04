@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="btn_Main">SIGN UP</string>
+    <string name="hint_Main">Name</string>
+    <string name="BTN2_DIS">CANCEL</string>
+    <string name="BTN_DIS">REGISTER</string>
+    <string name="ET5_DIS">Re-type Password</string>
+    <string name="ET4_DIS">Password</string>
+    <string name="ET3_DIS">Telephone</string>
+    <string name="ET2_DIS">Email</string>
+    <string name="ET1_DIS">Name</string>
+    <string name="channel_name">main</string>
+    <string name="channel_description">main</string>
+</resources>
